@@ -4,4 +4,6 @@ Country : hdfkfjl
 
 Addition 2+3= 5
 
+Multiplication 3x5 =15
+
 
