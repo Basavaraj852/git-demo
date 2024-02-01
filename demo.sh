@@ -4,7 +4,6 @@ Country : hdfkfjl
 
 Addition 2+3= 5
 
-
 Multiplication 3x5 =15
 
 subtraction 10-5=5
